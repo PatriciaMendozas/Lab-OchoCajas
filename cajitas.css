@@ -1,0 +1,37 @@
+div{
+	background: grey;
+	border: 2px solid black;
+	height:25px; 
+	width:50px;
+	margin: 5px;
+	padding: 25px;
+
+}
+
+#unoinicio{
+	
+	display: block;
+	
+
+}
+.tres{
+	display: inline-block;
+	margin: 10px;
+
+}
+.dos{
+	display: inline-block;
+}
+
+.contenedor
+{
+	display:block;
+	width: 380px;
+	height: 98px;
+	padding: 5px;
+
+}
+
+#unofinal{
+	display: block;
+	}
