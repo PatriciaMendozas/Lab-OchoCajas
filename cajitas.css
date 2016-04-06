@@ -16,7 +16,7 @@ div{
 }
 .tres{
 	display: inline-block;
-	margin: 10px;
+	margin: 5px;
 
 }
 .dos{
@@ -26,8 +26,8 @@ div{
 .contenedor
 {
 	display:block;
-	width: 380px;
-	height: 98px;
+	width: 350px;
+	height: 90px;
 	padding: 5px;
 
 }
